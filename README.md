@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ImTheProblem1
-- 👀 I’m interested in ... coding, cyber security, CTFs, penetration testing and Thhreat hunting
+- 👀 I’m interested in ... coding, cyber security, CTFs, penetration testing and Threat hunting
 - 🌱 I’m currently learning ... Python coding, Kali Linux
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... via email @ 30082098@tafe.wa.edu.au
